@@ -1,14 +1,11 @@
-	{
-		"id": 1,
-		"name": "Lord of the rings",
-		"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-		"price": 5.99,
-		"favorite": false 
-	},
-	{
-		"id": 2,
-		"name": "Lord of the rings",
-		"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-		"price": 6.99,
-		"favorite": false  
-	}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
