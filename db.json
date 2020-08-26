@@ -4,11 +4,4 @@
 	"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
 	"price": "5.99",
 	"favorite": "false"
-},
-{
-  	"id": "2",
-	"name": "Lord of the rings: 2",
-	"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-	"price": "3.99",
-	"favorite": "false"
 }
