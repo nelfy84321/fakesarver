@@ -24,7 +24,7 @@
 	{
     	"id": "4",
 	"name": "The Dark Knight",
-	"description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+	"description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
     },
@@ -38,13 +38,13 @@
 	{
     	"id": "6",
 	"name": "Schindler's List",
-	"description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+	"description": "In German-occupied Poland during World War II, industrialist Schindler becomes concerned for his Jewish workforce after witnessing their persecution.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
     },
 	{
     	"id": "7",
-	"name": "The Lord of the Rings: The Return of the King",
+	"name": "The Lord of the Rings: Part III",
 	"description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
@@ -65,7 +65,7 @@
     },
 	{
     	"id": "10",
-	"name": "The Lord of the Rings: The Fellowship of the Ring",
+	"name": "The Lord of the Rings: Part I",
 	"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY999_CR0,0,673,999_AL_.jpg"
@@ -80,7 +80,7 @@
 	{
     	"id": "12",
 	"name": "Forrest Gump",
-	"description": "The events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+	"description": "The events of Vietnam and other historical events unfold through the perspective of man with an IQ of 75, whose only desire is to be reunited with his sweetheart.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
     },
@@ -93,15 +93,15 @@
     },
 	{
     	"id": "14",
-	"name": "Star Wars: Episode V - The Empire Strikes Back",
-	"description": "Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+	"name": "Star Wars: Episode V",
+	"description": "Luke begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
 	"price": 2.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg"
     },
 	{
     	"id": "15",
-	"name": "The Lord of the Rings: The Two Towers",
-	"description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+	"name": "The Lord of the Rings: Part II",
+	"description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the fellowship makes a stand against Sauron's new ally, Saruman.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,642,1000_AL_.jpg"
     },
@@ -115,7 +115,7 @@
 	{
     	"id": "17",
 	"name": "Goodfellas",
-	"description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+	"description": "The story of Henry Hill and his life in the mob, covering his relationship with his mob partners Jimmy Conway and Tommy DeVito in the crime syndicate.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX667_CR0,0,667,999_AL_.jpg"
     },
@@ -143,7 +143,7 @@
 	{
     	"id": "21",
 	"name": "La vita è bella",
-	"description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+	"description": "When a Jewish and his son become victims of the Holocaust, he uses a perfect mixture of humor and imagination to protect his son from the dangers around their camp.",
 	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX670_AL_.jpg"
     },
