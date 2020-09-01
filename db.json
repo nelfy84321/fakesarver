@@ -4,7 +4,7 @@
     	"id": "1",
 	"name": "The Shawshank Redemption",
 	"description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-	"price": "3.99",
+	"price": 3.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     },
 	{
@@ -25,7 +25,7 @@
     	"id": "4",
 	"name": "The Dark Knight",
 	"description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological test of his ability.",
-	"price": 3.99,
+	"price": 4.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
     },
 	{
@@ -53,7 +53,7 @@
     	"id": "8",
 	"name": "Pulp Fiction",
 	"description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-	"price": 3.99,
+	"price": 2.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg"
     },
 	{
@@ -67,7 +67,7 @@
     	"id": "10",
 	"name": "The Lord of the Rings: Part I",
 	"description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-	"price": 3.99,
+	"price": 5.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY999_CR0,0,673,999_AL_.jpg"
     },
 	{
@@ -95,7 +95,7 @@
     	"id": "14",
 	"name": "Star Wars: Episode V",
 	"description": "Luke begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
-	"price": 2.99,
+	"price": 6.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg"
     },
 	{
@@ -137,7 +137,7 @@
     	"id": "20",
 	"name": "Se7en",
 	"description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
-	"price": 3.99,
+	"price": 5.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,639,1000_AL_.jpg"
     },
 	{
@@ -151,7 +151,7 @@
     	"id": "22",
 	"name": "Cidade de Deus",
 	"description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
-	"price": 3.99,
+	"price": 1.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,670,1000_AL_.jpg"
     },
 	{
@@ -165,7 +165,7 @@
     	"id": "24",
 	"name": "It's a Wonderful Life",
 	"description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
-	"price": 3.99,
+	"price": 2.99,
 	"image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SY1000_CR0,0,687,1000_AL_.jpg"
     }
   ],
